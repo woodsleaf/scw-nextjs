@@ -26,7 +26,7 @@ const MainContainer = ({children, keywords, title}) => {
             `}
       </style>
     </>
-  )
-}
+  );
+};
 
-export default MainContainer
+export default MainContainer;
