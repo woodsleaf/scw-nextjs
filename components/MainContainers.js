@@ -7,6 +7,7 @@ const MainContainer = ({children, keywords, title}) => {
       <Head>
         <meta keywords={"nextjs " + keywords}></meta>
         <title>{title}</title>
+        <link rel="icon" href="./favicon.ico" />
       </Head>
       <div className="navbar">
         <A href={'/'} text={'Главная'} />
