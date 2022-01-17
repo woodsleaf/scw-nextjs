@@ -1,0 +1,20 @@
+{
+  "name": "scissor-woman.next",
+  "version": "1.0.0",
+  "description": "This is a basic static HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen 🪄 immediately in the preview window. You can upload assets like images or audio in `assets` to the left. The rest is up to you and your imagination.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^12.0.8",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "sass": "^1.48.0"
+  }
+}
