@@ -6,8 +6,10 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "startx": "next build && next start"
+    "prod": "next start",
+    "startx": "next build && next start",
+    "export": "next export",
+    "start": "next"
   },
   "keywords": [],
   "author": "",
